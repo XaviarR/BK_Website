@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\BK_Website.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\BK_Website\\BK_Website\\wwwroot\\Images\\FaceBook_Logo.png",
+      "PackagePath": "staticwebassets\\Images\\FaceBook_Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\BK_Website\\BK_Website\\wwwroot\\Images\\Intagram_Logo.png",
+      "PackagePath": "staticwebassets\\Images\\Intagram_Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\xavia\\Documents\\GitHub\\BK_Website\\BK_Website\\wwwroot\\Images\\YouTube_Logo.png",
+      "PackagePath": "staticwebassets\\Images\\YouTube_Logo.png"
+    },
+    {
       "Id": "C:\\Users\\xavia\\Documents\\GitHub\\BK_Website\\BK_Website\\wwwroot\\Images\\community_1.jpg",
       "PackagePath": "staticwebassets\\Images\\community_1.jpg"
     },
